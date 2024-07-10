@@ -45,15 +45,13 @@ Lively는 체육시설 예약 홈페이지를 구축하고 시설 예약 및 예
 
 ## 4. 기여내용
 - ERD 다이어그램 작성, 프로젝트 테이블 작성
-![lively ERD 다이어그램](https://github.com/EastCanyon/elibrary/blob/main/lively_ERD.png)
+![lively ERD 다이어그램](https://github.com/EastCanyon/lively/blob/main/lively_ERD.png)
   
 - 일반회원 회원가입, 로그인, 회원탈퇴 기능
+![lively signup](https://github.com/EastCanyon/lively/blob/main/logsign.png)
+![lively login](https://github.com/EastCanyon/lively/blob/main/lively_login.png)
 
-  
 - 참조 페이지 데이터 크롤링
-
-  
 - 크롤링데이터 가공
-
   
 
